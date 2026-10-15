@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>Feed</title>
+ <link>/</link>
+ <description></description>
+ <lastBuildDate>Thu, 15 Oct 2026 02:27:03 -1000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+<title>Hello World</title>
+<link>/helloWorld.html</link>
+<pubDate>Thu, 08 May 58758 08:29:05 -1000</pubDate>
+</item>
+</channel>
+</rss>
