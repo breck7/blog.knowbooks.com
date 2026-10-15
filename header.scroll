@@ -2,6 +2,7 @@ importOnly
 metaTags
 buildTxt
 buildHtml
+baseUrl https://blog.knowbooks.com/
 theme gazette
 homeButton
 leftRightButtons

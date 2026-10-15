@@ -1,7 +1,15 @@
-My Blog
-=======
-Hello World
-===========
+Knowbooks Official Unofficial Blog
+==================================
+
+Knowbooks.com
+ https://knowbooks.com Knowbooks.com
+
+Aloha!
+======
 10/15/2026
-/helloWorld.html
+https://blog.knowbooks.com/helloWorld.html
+
+Knowbooks.com
+ https://knowbooks.com Knowbooks.com
+
 Built with Scroll v180.0.1

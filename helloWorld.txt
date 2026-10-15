@@ -1,7 +1,21 @@
-Hello World
-===========
-This is my first blog post using Scroll.
+Aloha!
+======
+
+Aloha world!
+
+Sophia pointed out we didn't have a blog yet.
+
+Now we do.
+
+We're just getting started.
+
+A hui hou,
+
+Breck
 
 ⁂
+
+Knowbooks.com
+ https://knowbooks.com Knowbooks.com
 
 Built with Scroll v180.0.1

@@ -4,12 +4,12 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Thu, 15 Oct 2026 02:27:03 -1000</lastBuildDate>
+ <lastBuildDate>Thu, 15 Oct 2026 02:34:53 -1000</lastBuildDate>
  <language>en-us</language>
  <item>
-<title>Hello World</title>
-<link>/helloWorld.html</link>
-<pubDate>Thu, 08 May 58758 08:29:05 -1000</pubDate>
+<title>Aloha!</title>
+<link>https://blog.knowbooks.com/helloWorld.html</link>
+<pubDate>Thu, 15 Oct 2026 00:00:00 -1000</pubDate>
 </item>
 </channel>
 </rss>
